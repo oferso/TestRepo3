@@ -3,3 +3,5 @@
 
 
 This line was added via web interface
+
+test7 compare
